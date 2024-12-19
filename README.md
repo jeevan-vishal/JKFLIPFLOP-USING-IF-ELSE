@@ -50,7 +50,8 @@ Run the simulation and observe the waveforms.
 Verify the Results. Compare the simulated results with the truth table for a JK Flip-Flop.
 
 ### PROGRAM:
-![Uploading Screenshot 2024-12-19 115033.png…]()
+![Screenshot 2024-11-06 115635](https://github.com/user-attachments/assets/676fe6a2-f406-43a8-a8ef-f92dc990d66f)
+
 
 
 ### RTL LOGIC FOR FLIPFLOPS:
